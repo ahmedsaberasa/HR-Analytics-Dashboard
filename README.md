@@ -82,7 +82,7 @@ All datasets were cleaned, structured, and prepared before analysis.
 ![Performance Tracker](HR-Analytics/Images/performancetracker.png)
 
 ### 🚪 Attrition
-![Attrition](HR-Analytics/Images/attrition.png)
+![Attrition](HR-Analytics/Images/atrrition.png)
 
 ---
 
