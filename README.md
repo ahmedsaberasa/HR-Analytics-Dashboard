@@ -86,26 +86,6 @@ All datasets were cleaned, structured, and prepared before analysis.
 
 ---
 
-## 📂 Project Structure
-HR-Analytics-Dashboard/
-│
-├── dashboard.pbix
-├── data/
-│   ├── employees.csv
-│   ├── attrition.csv
-│   └── performance.csv
-│
-├── HR-Analytics/
-│   └── Images/
-│       ├── overview.png
-│       ├── demographics.png
-│       ├── performancetracker.png
-│       └── attrition.png
-│
-└── README.md
-
----
-
 ## ⭐ How to Use
 1. Download the `.pbix` file  
 2. Open it in Power BI Desktop  
