@@ -9,8 +9,8 @@ It helps HR teams:
 - Understand employee behavior  
 - Identify attrition patterns  
 - Improve retention strategies  
-- Support data-driven HR decisions  
-
+- Support data-driven HR decisions
+  
 ---
 
 ## 📌 Dashboard Pages
